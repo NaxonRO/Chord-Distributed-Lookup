@@ -1,0 +1,9 @@
+# Build artifacts
+tema2
+checker/tema2
+*.o
+
+# Checker temporaries
+checker/in*.txt
+checker/out.txt
+checker/run_error.log
